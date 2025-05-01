@@ -70,7 +70,7 @@ You can delete the app at any time to stop data collection.
 ## Contact
 
 If you have any questions or concerns, please contact:  
-**[Alex Lima]**  
+**Alex Lima**  
 Email: [alima.webdev@gmail.com]
 
 ---
