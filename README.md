@@ -70,8 +70,8 @@ You can delete the app at any time to stop data collection.
 ## Contact
 
 If you have any questions or concerns, please contact:  
-**[Your Name]**  
-Email: [your.email@example.com]
+**[Alex Lima]**  
+Email: [alima.webdev@gmail.com]
 
 ---
 
